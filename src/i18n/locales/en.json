@@ -1,0 +1,17 @@
+{
+  "navbar": {
+    "home": "Home",
+    "services": "Services",
+    "gallery": "Gallery",
+    "booking": "Booking",
+    "subscription": "Subscription",
+    "contact": "Contact",
+    "register": "Register"
+  },
+  "hero": {
+    "title": "Crafting Unforgettable Ethiopian Weddings",
+    "subtitle": "Traditional & Modern Wedding Planning in Debre Birhan",
+    "cta1": "Plan Your Wedding",
+    "cta2": "Get Started"
+  }
+}
